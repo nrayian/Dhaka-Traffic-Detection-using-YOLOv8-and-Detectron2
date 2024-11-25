@@ -1,0 +1,4 @@
+train: train\
+val: val\
+nc: 11
+names: ["bicycle", "bus", "car", "cng", "easybike", "leguna", "bike", "rickshaw", "van", "truck","wheelbarrow"]
